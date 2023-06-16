@@ -1,0 +1,21 @@
+
+h1 {
+    color: purple;
+    text-align: center; 
+ }
+
+ p {
+    color: green;
+    text-align: left; 
+ }
+
+ .pic{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+ }
+
+ #intro{
+   font-style: italic;
+ }
